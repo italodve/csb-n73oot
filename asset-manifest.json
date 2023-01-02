@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "https://italodve.github.io/csb-n73oot/static/js/main.2fb72548.chunk.js",
-    "main.js.map": "https://italodve.github.io/csb-n73oot/static/js/main.2fb72548.chunk.js.map",
+    "main.js": "https://italodve.github.io/csb-n73oot/static/js/main.c4f6d4be.chunk.js",
+    "main.js.map": "https://italodve.github.io/csb-n73oot/static/js/main.c4f6d4be.chunk.js.map",
     "runtime-main.js": "https://italodve.github.io/csb-n73oot/static/js/runtime-main.6ee7ba79.js",
     "runtime-main.js.map": "https://italodve.github.io/csb-n73oot/static/js/runtime-main.6ee7ba79.js.map",
-    "static/js/2.328be9b4.chunk.js": "https://italodve.github.io/csb-n73oot/static/js/2.328be9b4.chunk.js",
-    "static/js/2.328be9b4.chunk.js.map": "https://italodve.github.io/csb-n73oot/static/js/2.328be9b4.chunk.js.map",
+    "static/js/2.b4a1010d.chunk.js": "https://italodve.github.io/csb-n73oot/static/js/2.b4a1010d.chunk.js",
+    "static/js/2.b4a1010d.chunk.js.map": "https://italodve.github.io/csb-n73oot/static/js/2.b4a1010d.chunk.js.map",
     "index.html": "https://italodve.github.io/csb-n73oot/index.html",
-    "static/js/2.328be9b4.chunk.js.LICENSE.txt": "https://italodve.github.io/csb-n73oot/static/js/2.328be9b4.chunk.js.LICENSE.txt"
+    "static/js/2.b4a1010d.chunk.js.LICENSE.txt": "https://italodve.github.io/csb-n73oot/static/js/2.b4a1010d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6ee7ba79.js",
-    "static/js/2.328be9b4.chunk.js",
-    "static/js/main.2fb72548.chunk.js"
+    "static/js/2.b4a1010d.chunk.js",
+    "static/js/main.c4f6d4be.chunk.js"
   ]
 }
